@@ -48,3 +48,4 @@ The working paper above draws on nineteen underlying documents. Anyone who wants
 ---
 
 *This research is not a consulting product. It is a development track — theological and ecclesiological groundwork toward understanding what genuine ekklēsia requires and what produces it.*
+
