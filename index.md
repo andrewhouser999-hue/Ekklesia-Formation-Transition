@@ -22,6 +22,10 @@ title: "Formation & Transition"
 
 The synthesis. Read this first — it lays out the whole shape of the research, names what Scripture states directly versus what has been carefully inferred versus what has been borrowed and labeled as borrowed, and closes without resolving what comes next.
 
+### [Would That All the Lord's People Were Prophets]({{ "/docs/would-that-all-the-lords-people-were-prophets.html" | relative_url }})
+
+Read this once the Working Paper is finished. It picks up the unresolved close directly — the ache of carrying this alone, and the biblical case for wanting more formed people in it with you, not fewer.
+
 ---
 
 ## For Further Reading
@@ -55,6 +59,7 @@ The working paper above draws on nineteen underlying documents. Anyone who wants
 - [Pastor Formation as Prequel to Remnant Cohort Formation]({{ "/docs/pastor-formation-as-prequel.html" | relative_url }}) — the case for concurrent, not sequential, formation and facilitation
 - [The Biblical Ekklēsia as Normative Foundation]({{ "/docs/biblical-ekklesia-as-normative-foundation.html" | relative_url }}) — the full warrant argument
 - [Facilitator Competency — Initial Stage]({{ "/docs/facilitator-competency-initial-stage.html" | relative_url }}) — the first-stage framework for holding formation space for others
+- [Plurality, Multiplication & the Architecture of Formed Leadership]({{ "/docs/plurality-multiplication.html" | relative_url }}) — the full research behind *Would That All the Lord's People Were Prophets*, including the historical and denominational landscape that reader-facing version leaves out
 
 ---
 
