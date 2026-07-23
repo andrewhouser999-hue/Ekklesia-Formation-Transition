@@ -11,11 +11,11 @@ title: "A Pastoral Working Paper"
 
 ## Purpose
 
-You already know most of the pieces in this paper. Over recent conversations, the vocabulary here — formation, *hexis*, gathered-versus-assembled — has come up in some form, and you've agreed with the premise each time it surfaced. What you have not yet had is the whole thing laid out as one continuous argument, with the seams visible: which parts of this are things Scripture states outright, which parts are careful inference from what Scripture states, and which parts are explanatory tools borrowed from outside disciplines to help the inference make sense.
+This paper is for anyone who already holds the premise it is built on — that formation, not mere attendance, is what a congregation actually needs; that a room can be physically gathered without being genuinely assembled; that the vocabulary here (formation, *hexis*, gathered-versus-assembled) is naming something real and consequential, not offering a passing framework to try on. If that premise already rings true to you, what you likely have not yet had is the whole thing laid out as one continuous argument, with the seams visible: which parts of this are things Scripture states outright, which parts are careful inference from what Scripture states, and which parts are explanatory tools borrowed from outside disciplines to help the inference make sense.
 
 That distinction is not a hedge. It is the point of this paper. A framework this consequential — one that would ask a congregation to absorb years of cost or a leadership team to face its own gaps honestly — has to be trustworthy enough to build a future on. That means being exact about what kind of claim each piece is, not letting a good synthesis borrow the authority of a direct command it doesn't actually carry.
 
-This paper does not resolve what comes next. It exists to put the whole shape in front of you so that conversation can happen with the full picture in view, not fragments.
+This paper does not resolve what comes next. It exists to put the whole shape in front of anyone who already shares this understanding, so that conversation can happen with the full picture in view, not fragments.
 
 ---
 
