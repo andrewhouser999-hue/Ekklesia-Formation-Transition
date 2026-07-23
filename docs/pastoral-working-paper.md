@@ -5,7 +5,7 @@ title: "A Pastoral Working Paper"
 
 # Formation & Transition — A Pastoral Working Paper
 
-*For [Lead Pastor], first — and then, with his review, for the small group walking through this with him.*
+*For any pastor who already holds this understanding, first — and then, with their review, for the small group walking through it with them.*
 
 ---
 
