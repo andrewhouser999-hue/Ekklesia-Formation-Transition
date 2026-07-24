@@ -45,10 +45,10 @@ The working paper above draws on nineteen underlying documents. Anyone who wants
 - [Polity Foundation]({{ "/docs/polity-foundation-web.html" | relative_url }}) — how a leader's formation flows into the body's capacity
 - [The Allēlōn Functions]({{ "/docs/allelon-functions-web.html" | relative_url }}) — what the one-another commands require to actually operate
 - [The Demand Landscape]({{ "/docs/demand-landscape-web.html" | relative_url }}) — the full cultural-forces case
-- [The Telos of a Formed Congregation]({{ "/docs/telos-of-a-formed-congregation.html" | relative_url }}) — what a formed congregation displays and why
-- [Modern Western Constraint Matrix]({{ "/docs/modern-western-constraint-matrix.html" | relative_url }}) — seven structural conditions any design must work within
-- [Remnant Theology — Biblical Research]({{ "/docs/remnant-theology-biblical-research.html" | relative_url }}) — the exegetical case for a formed-nucleus strategy
-- [Pastoral Formation Pathway Assessment]({{ "/docs/pastoral-formation-pathway-assessment.html" | relative_url }}) — the full four-pathway assessment
+- [The Telos of a Formed Congregation]({{ "/docs/telos-of-a-formed-congregation-web.html" | relative_url }}) — what a formed congregation displays and why
+- [Modern Western Constraint Matrix]({{ "/docs/modern-western-constraint-matrix-web.html" | relative_url }}) — seven structural conditions any design must work within
+- [Remnant Theology — Biblical Research]({{ "/docs/remnant-theology-biblical-research-web.html" | relative_url }}) — the exegetical case for a formed-nucleus strategy
+- [Pastoral Formation Pathway Assessment]({{ "/docs/pastoral-formation-pathway-assessment-web.html" | relative_url }}) — the full four-pathway assessment
 
 ### More Recent Additions
 
