@@ -40,11 +40,11 @@ The working paper above draws on nineteen underlying documents. Anyone who wants
 
 ### Core Track Documents
 
-- [Development Plan]({{ "/docs/development-plan.html" | relative_url }}) — the governing roadmap and First Things
-- [Scaling Mechanism Research]({{ "/docs/scaling-mechanism-research.html" | relative_url }}) — six historical formation-at-scale models
-- [Polity Foundation]({{ "/docs/polity-foundation.html" | relative_url }}) — how a leader's formation flows into the body's capacity
-- [The Allēlōn Functions]({{ "/docs/allelon-functions.html" | relative_url }}) — what the one-another commands require to actually operate
-- [The Demand Landscape]({{ "/docs/demand-landscape.html" | relative_url }}) — the full cultural-forces case
+- [Development Plan]({{ "/docs/development-plan-web.html" | relative_url }}) — the governing roadmap and First Things
+- [Scaling Mechanism Research]({{ "/docs/scaling-mechanism-research-web.html" | relative_url }}) — six historical formation-at-scale models
+- [Polity Foundation]({{ "/docs/polity-foundation-web.html" | relative_url }}) — how a leader's formation flows into the body's capacity
+- [The Allēlōn Functions]({{ "/docs/allelon-functions-web.html" | relative_url }}) — what the one-another commands require to actually operate
+- [The Demand Landscape]({{ "/docs/demand-landscape-web.html" | relative_url }}) — the full cultural-forces case
 - [The Telos of a Formed Congregation]({{ "/docs/telos-of-a-formed-congregation.html" | relative_url }}) — what a formed congregation displays and why
 - [Modern Western Constraint Matrix]({{ "/docs/modern-western-constraint-matrix.html" | relative_url }}) — seven structural conditions any design must work within
 - [Remnant Theology — Biblical Research]({{ "/docs/remnant-theology-biblical-research.html" | relative_url }}) — the exegetical case for a formed-nucleus strategy

@@ -197,6 +197,21 @@ a:hover { text-decoration-thickness: 2px; }
   scroll-margin-top: 2rem;
 }
 
+.essay h4 {
+  font-size: 1.02rem;
+  font-weight: 700;
+  margin: 1.7rem 0 0.2rem;
+  color: var(--ink);
+  scroll-margin-top: 2rem;
+}
+
+.essay h4 .tag {
+  font-weight: 400;
+  font-style: italic;
+  color: var(--ink-faint);
+  font-size: 0.88em;
+}
+
 .essay p { margin: 1.1rem 0; }
 
 .essay > .rule {
@@ -206,6 +221,28 @@ a:hover { text-decoration-thickness: 2px; }
 }
 
 .essay strong { font-weight: 700; }
+
+.meta-note {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--ink-faint);
+  margin: -0.6rem 0 1rem;
+}
+
+.status-flag {
+  display: inline-block;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--claim-rule);
+  background: var(--claim-bg);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+}
 
 /* Scripture quotations */
 
